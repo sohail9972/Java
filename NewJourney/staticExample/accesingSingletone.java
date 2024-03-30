@@ -6,6 +6,6 @@ public class accesingSingletone {
 
         singletoneclass obje1=singletoneclass.getInstance();
         singletoneclass obje2=singletoneclass.getInstance();
-        singletoneclass obj = singletoneclass.greeting();
+//        singletoneclass obj = singletoneclass.greeting();
     }
 }
